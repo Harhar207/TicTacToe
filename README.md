@@ -1,2 +1,8 @@
 # TicTacToe
-Download this file and run this in any of your terminal to play the game.
+To Play TicTacToe in your Computer you should have python installed in your PC,further you have to:
+1. Download this file in you PC.
+2. Open Terminal and Write :<br/> 
+'pip install pip',
+'pip install pygame',
+'pip install numpy',<br/>
+3. After completing the above steps you can play the game just by running the file tictactoe.py in your terminal.<br/>
