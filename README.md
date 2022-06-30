@@ -1,4 +1,4 @@
-# TicTacToe
+# TicTacToe: A Fun gam you all must have played.
 To Play TicTacToe in your Computer you should have python installed in your PC,further you have to:
 1. Download the file 'tictactoe.py' in you PC.
 2. Open Terminal and Write :<br/> 
