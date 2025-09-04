@@ -1,4 +1,4 @@
-#TicTacToe
+#TicTacToe game
 
 
 import pygame,sys
